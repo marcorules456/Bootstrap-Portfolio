@@ -1,0 +1,95 @@
+body {
+	color: #777;
+	line-height: 34px;
+	  font-size: 18px;
+	  background-image: url("background1.jpg");
+}
+
+h1,
+h2,
+h3 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: #4aaaa5;
+}
+#masthead{
+
+  overflow: auto;
+  color: #fff;
+  background: #fff;
+  border-bottom: 2px solid #ccc;
+}
+footer {
+	text-align: center;
+	background-color: gray;
+	position: fixed;
+	bottom:0px;
+	width: 100%;
+	right: 0px;
+	left: 0px;
+}
+.sect {
+	border: 2px solid black;
+	background-color: #f4f4f4;
+	line-height: 1.5;
+	text-align: center;
+	margin:30px;
+}
+.title1{
+	position:relative;
+	left:500px;
+	padding:30px;
+	background-color: #008080;
+	text-align:center;
+	
+}
+.list{
+	
+	position:relative;
+	right: 300px;
+}
+ul {
+	list-style-type:none;
+	padding:0px;
+}
+.work {
+	float: left;
+	width: 33%;
+	height:33%;
+	margin:40px;
+
+	padding:30px
+}
+.head1 {
+	background-color: gray;
+	color: #f4f4f4;
+
+	text-align: center;
+
+
+}
+#goomba {
+	background-image: url("background1.jpg");
+}
+#boo{
+	
+	background-image: url("bomb.png");
+}
+#yoshi{
+	background-image: url("bomb.png");
+}
+#bowser{
+	background-image: url("bomb.png");
+}
+#bomb{
+	background-image: url("bomb.png");
+}
+.iam {
+	width:30%;
+	height:30%;
+}
+.pic{
+	width:20%;
+	margin:10px;
+	height:20%;
+}
