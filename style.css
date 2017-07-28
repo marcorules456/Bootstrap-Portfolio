@@ -2,7 +2,7 @@ body {
 	color: #777;
 	line-height: 34px;
 	  font-size: 18px;
-	  background-image: url("background1.jpg");
+	  background-image: url("mushroom.jpg");
 }
 
 h1,
@@ -40,6 +40,7 @@ footer {
 	left:500px;
 	padding:30px;
 	background-color: #008080;
+	font-size:30px;
 	text-align:center;
 	
 }
@@ -73,23 +74,28 @@ ul {
 }
 #boo{
 	
-	background-image: url("bomb.png");
+	background-image: url("background2.jpg");
 }
 #yoshi{
-	background-image: url("bomb.png");
+	background-image: url("background3.jpg");
 }
 #bowser{
-	background-image: url("bomb.png");
+	background-image: url("background4.jpg");
 }
 #bomb{
-	background-image: url("bomb.png");
+	background-image: url("background.jpg");
 }
 .iam {
-	width:30%;
-	height:30%;
+	width:33%;
+	height:33%;
 }
 .pic{
 	width:20%;
 	margin:10px;
 	height:20%;
+}
+.sec {
+	background-color:#f4f4f4;
+	border:black 2px solid;
+	margin:1px;
 }
